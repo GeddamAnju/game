@@ -1,0 +1,56 @@
+body{
+    background-color: aquamarine;
+    
+    background-image: url('game.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: xx-large;
+    height:2500px;
+    width:2500px;
+    margin:150px;
+}
+input{
+    height: 120px;
+    width:800px;
+    font-size: larger;
+    background-color:antiquewhite;
+    border: solid;
+    padding:20px;
+}
+#btn{
+    width: 500px;
+    height: 150px;
+    font-size: large;
+    border: solid;
+}
+
+.container{
+    
+    
+    font-size: larger;
+
+}
+h1{
+    font-size: 100px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-size: 90px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    
+    
+    font-size: 50px;
+}
+button{
+    background-color: chocolate;
+}
+#msg {
+    color:rgb(3, 78, 3);
+    text-align:left;
+    font-weight: bold;
+    margin-top: 10px;
+    font-size: 75px;
+}
+
